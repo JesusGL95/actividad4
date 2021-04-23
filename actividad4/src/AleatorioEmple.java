@@ -63,6 +63,7 @@ public class AleatorioEmple {
 			file.writeInt(dep[i]);
 			file.writeDouble(salario[i]);
 		}
+		
 		file.close();
 	}// fin crear
 
